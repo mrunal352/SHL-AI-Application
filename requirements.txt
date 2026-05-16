@@ -1,5 +1,6 @@
 fastapi
 uvicorn
+<<<<<<< HEAD
 numpy
 pandas
 faiss-cpu
@@ -7,3 +8,12 @@ sentence-transformers==2.2.2
 torch==2.0.1+cpu
 transformers==4.35.2
 python-multipart
+=======
+sentence-transformers
+faiss-cpu
+numpy
+pandas
+streamlit
+python-multipart
+pydantic
+>>>>>>> 27e43e048ce6fcef9ed595e3c61ad696f246dd8e
