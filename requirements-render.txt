@@ -6,7 +6,7 @@ numpy
 pandas
 faiss-cpu
 sentence-transformers==2.2.2
-transformers==4.35.2
+transformers==4.30.2
 huggingface-hub==0.14.1
 torch==2.0.1+cpu
 torchvision==0.15.2+cpu
